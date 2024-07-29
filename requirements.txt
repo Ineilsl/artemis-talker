@@ -1,0 +1,4 @@
+PyMuPDF==1.23.0
+gTTS==2.3.0
+tkinterdnd2==1.0.0
+ttkthemes==3.2.0
